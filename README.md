@@ -3,7 +3,7 @@
 I'm a software engineer in <img src="https://raw.githubusercontent.com/HFO4/HFO4/master/world-flag_047-CHN--China.svg" width="13"/> China. Currently, I'm working for <img src="https://raw.githubusercontent.com/HFO4/HFO4/master/Microsoft.svg" width="13"/> Microsoft, focusing on M365 infrastructures. I enjoy coding for fun😋 and making toy projects🎈.
 
 <h3>🔍 Where to find me</h3>
-<p><a href="https://blog.aoaoao.me" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Blog-%23FF4088.svg?&style=for-the-badge&logo=hugo&logoColor=white" /></a> <a href="https://github.com/HFO4" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/AaronLiu00" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<p><a href="https://blog.aoaoao.me" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Blog-%23FF4088.svg?&style=for-the-badge&logo=hugo&logoColor=white" /></a> <a href="https://github.com/IsaacG1F2" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/PermaFrostBiter" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
 
 ### 🎮 Let's play Pokémon together~
@@ -28,3 +28,11 @@ Click buttons above to issue new gamepad input, refresh this page to view newst 
 </details>
 
 -----
+<div>
+![Snake animation](https://github.com/IsaacG1F2/IsaacG1F2/output/github-contribution-grid-snake.svg)
+</div>
+<div align="center">
+  <a href="https://github.com/gusteodoro04%22%3E
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gusteodoro04&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true%22/%3E
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gusteodoro04&layout=compact&langs_count=7&theme=midnight-purple%22/%3E
+<!-- </div>
