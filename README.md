@@ -28,11 +28,12 @@ Click buttons above to issue new gamepad input, refresh this page to view newst 
 </details>
 
 -----
-<div>
-![Snake animation](https://github.com/IsaacG1F2/IsaacG1F2/output/github-contribution-grid-snake.svg)
-</div>
 <div align="center">
   <a href="https://github.com/IsaacG1F2%22%3E">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IsaacG1F2&show_icons=true&theme=dark&include_all_commits=true&count_private=true%22/%3E"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacG1F2&layout=compact&langs_count=7&theme=dark"/>
 </div>
+<div>
+![Snake animation](https://github.com/IsaacG1F2/IsaacG1F2/output/github-contribution-grid-snake.svg)
+</div>
+
