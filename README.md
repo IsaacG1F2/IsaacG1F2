@@ -36,7 +36,10 @@ Clique nos botões acima para emitir uma nova entrada de gamepad, atualize esta 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacG1F2&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
-<div>
-![Snake animation](https://github.com/IsaacG1F2/IsaacG1F2/output/github-contribution-grid-snake.svg)
-</div>
+##
 
+<div> 
+ 
+  ![Snake animation](https://github.com/gusteodoro04/gusteodoro04/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
