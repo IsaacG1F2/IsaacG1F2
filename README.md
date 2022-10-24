@@ -40,6 +40,6 @@ Clique nos botões acima para emitir uma nova entrada de gamepad, atualize esta 
 
 <div> 
  
-  ![Snake animation](https://github.com/gusteodoro04/gusteodoro04/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/IsaacG1F2/IsaacG1F2/blob/output/github-contribution-grid-snake.svg)
  
 </div>
